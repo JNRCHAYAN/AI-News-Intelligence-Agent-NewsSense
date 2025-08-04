@@ -30,7 +30,21 @@ GNEWS_API_KEY=your_gnews_api_key
 GOOGLE_API_KEY=your_google_api_key
 SEARCH_ENGINE_ID=your_google_cse_id
 ```
-Must be create and account in https://gnews.io/ then apply your api key
+```
+🔑 How to Get Your Keys
+GNEWS_API_KEY
+Go to https://gnews.io/
+Sign up for a free developer account
+Get your API key from the dashboard
+```
+GOOGLE_API_KEY & SEARCH_ENGINE_ID
+Go to https://programmablesearchengine.google.com
+Create a new custom search engine
+Get the Search Engine ID from control panel
+Go to https://console.cloud.google.com/apis/credentials
+Create an API key under Credentials
+```
+Enable Custom Search API in the API Library
 ## 🚀 Running the Agents
 
 ### Controller + Agents Test
