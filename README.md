@@ -30,7 +30,7 @@ GNEWS_API_KEY=your_gnews_api_key
 GOOGLE_API_KEY=your_google_api_key
 SEARCH_ENGINE_ID=your_google_cse_id
 ```
-
+Must be create and account in https://gnews.io/ then apply your api key
 ## 🚀 Running the Agents
 
 ### Controller + Agents Test
