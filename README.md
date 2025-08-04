@@ -38,10 +38,10 @@ Sign up for a free developer account
 Get your API key from the dashboard
 
 GOOGLE_API_KEY & SEARCH_ENGINE_ID
-Go to https://programmablesearchengine.google.com
+Go to [https://programmablesearchengine.google.com](https://programmablesearchengine.google.com)
 Create a new custom search engine
 Get the Search Engine ID from control panel
-Go to https://console.cloud.google.com/apis/credentials
+Go to [https://console.cloud.google.com/apis/credentials](https://console.cloud.google.com/apis/credentials)
 Create an API key under Credentials
 ```
 Enable Custom Search API in the API Library
